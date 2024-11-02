@@ -1,0 +1,87 @@
+2024-08-25 16:17:10,240 : INFO : test_2e2 : getting card titles
+2024-08-25 16:17:10,264 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="2beebdec818ba045884319115a2c519b", element="f.1476F409309DB7AD8ACFC825910BB7D1.d.F0B1B589C45B0D4A5CB4EE83CABA8C2B.e.82")>
+2024-08-25 16:17:10,271 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="2beebdec818ba045884319115a2c519b", element="f.1476F409309DB7AD8ACFC825910BB7D1.d.F0B1B589C45B0D4A5CB4EE83CABA8C2B.e.82")>
+2024-08-25 16:17:10,278 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="2beebdec818ba045884319115a2c519b", element="f.1476F409309DB7AD8ACFC825910BB7D1.d.F0B1B589C45B0D4A5CB4EE83CABA8C2B.e.82")>
+2024-08-25 16:17:10,294 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="2beebdec818ba045884319115a2c519b", element="f.1476F409309DB7AD8ACFC825910BB7D1.d.F0B1B589C45B0D4A5CB4EE83CABA8C2B.e.82")>
+2024-08-25 16:17:10,394 : INFO : test_2e2 : entering country name
+2024-08-25 16:17:15,643 : INFO : test_2e2 : Text received from the app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-25 16:19:43,728 : INFO : test_2e2 : getting card titles
+2024-08-25 16:19:43,755 : INFO : test_2e2 : iphone X
+2024-08-25 16:19:43,763 : INFO : test_2e2 : Samsung Note 8
+2024-08-25 16:19:43,771 : INFO : test_2e2 : Nokia Edge
+2024-08-25 16:19:43,780 : INFO : test_2e2 : Blackberry
+2024-08-25 16:21:22,580 : INFO : test_2e2 : getting card titles
+2024-08-25 16:21:22,625 : INFO : test_2e2 : Blackberry
+2024-08-25 16:21:53,893 : INFO : test_2e2 : getting card titles
+2024-08-25 16:21:53,953 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="9fdf39951a4d18deaa499db4620da55f", element="f.BF795F36FB1742BDC33162D76974DD83.d.06FF417568B0702341B84AD96EEB7168.e.82")>
+2024-08-25 16:21:53,961 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="9fdf39951a4d18deaa499db4620da55f", element="f.BF795F36FB1742BDC33162D76974DD83.d.06FF417568B0702341B84AD96EEB7168.e.82")>
+2024-08-25 16:21:53,968 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="9fdf39951a4d18deaa499db4620da55f", element="f.BF795F36FB1742BDC33162D76974DD83.d.06FF417568B0702341B84AD96EEB7168.e.82")>
+2024-08-25 16:21:53,975 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="9fdf39951a4d18deaa499db4620da55f", element="f.BF795F36FB1742BDC33162D76974DD83.d.06FF417568B0702341B84AD96EEB7168.e.82")>
+2024-08-25 16:21:54,077 : INFO : test_2e2 : entering country name
+2024-08-25 16:21:59,359 : INFO : test_2e2 : Text received from the app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-25 16:33:12,414 : INFO : test_2e2 : getting card titles
+2024-08-25 16:33:12,438 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="854a1e53586dc6d041a83f1d24070426", element="f.82D2B984394B965A92F10870BA9B8C2A.d.5C1A72E069C833C25F616F035616507C.e.84")>
+2024-08-25 16:33:12,440 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="854a1e53586dc6d041a83f1d24070426", element="f.82D2B984394B965A92F10870BA9B8C2A.d.5C1A72E069C833C25F616F035616507C.e.84")>
+2024-08-25 16:33:12,440 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="854a1e53586dc6d041a83f1d24070426", element="f.82D2B984394B965A92F10870BA9B8C2A.d.5C1A72E069C833C25F616F035616507C.e.84")>
+2024-08-25 16:33:12,459 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="854a1e53586dc6d041a83f1d24070426", element="f.82D2B984394B965A92F10870BA9B8C2A.d.5C1A72E069C833C25F616F035616507C.e.84")>
+2024-08-25 16:33:12,565 : INFO : test_2e2 : entering country name
+2024-08-25 16:33:18,118 : INFO : test_2e2 : Text received from the app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-25 16:36:25,873 : INFO : test_2e2 : getting card titles
+2024-08-25 16:36:25,900 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="1982e8ae16ba609b48afbab2dc828b9f", element="f.6DD7BA9F68708B0A209FF476BA3A02C0.d.5EE4E44BB749FD1DB2001EB951775AF7.e.82")>
+2024-08-25 16:36:25,909 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="1982e8ae16ba609b48afbab2dc828b9f", element="f.6DD7BA9F68708B0A209FF476BA3A02C0.d.5EE4E44BB749FD1DB2001EB951775AF7.e.82")>
+2024-08-25 16:36:25,916 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="1982e8ae16ba609b48afbab2dc828b9f", element="f.6DD7BA9F68708B0A209FF476BA3A02C0.d.5EE4E44BB749FD1DB2001EB951775AF7.e.82")>
+2024-08-25 16:36:25,924 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="1982e8ae16ba609b48afbab2dc828b9f", element="f.6DD7BA9F68708B0A209FF476BA3A02C0.d.5EE4E44BB749FD1DB2001EB951775AF7.e.82")>
+2024-08-25 16:36:26,062 : INFO : test_2e2 : entering country name
+2024-08-25 16:36:31,294 : INFO : test_2e2 : Text received from the app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-25 16:49:58,057 : INFO : test_2e2 : getting card titles
+2024-08-25 16:49:58,083 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="c8b922402c5b25462bbf51afc5c91fc9", element="f.0A8D3038FD86FFD2919769FE44B77D0B.d.EAECDB44542E5D17FDD884063CACCBEA.e.82")>
+2024-08-25 16:49:58,090 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="c8b922402c5b25462bbf51afc5c91fc9", element="f.0A8D3038FD86FFD2919769FE44B77D0B.d.EAECDB44542E5D17FDD884063CACCBEA.e.82")>
+2024-08-25 16:49:58,097 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="c8b922402c5b25462bbf51afc5c91fc9", element="f.0A8D3038FD86FFD2919769FE44B77D0B.d.EAECDB44542E5D17FDD884063CACCBEA.e.82")>
+2024-08-25 16:49:58,103 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="c8b922402c5b25462bbf51afc5c91fc9", element="f.0A8D3038FD86FFD2919769FE44B77D0B.d.EAECDB44542E5D17FDD884063CACCBEA.e.82")>
+2024-08-25 16:49:58,240 : INFO : test_2e2 : entering country name
+2024-08-25 16:50:03,518 : INFO : test_2e2 : Text received from the app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-25 16:51:15,813 : INFO : test_2e2 : getting card titles
+2024-08-25 16:51:15,846 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="4733eded770f98e1bbe5fe613a1edade", element="f.537BD77D7B8657E405E1D0DC527E8091.d.1C81DF240946BAB56756F90E529A909D.e.82")>
+2024-08-25 16:51:15,854 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="4733eded770f98e1bbe5fe613a1edade", element="f.537BD77D7B8657E405E1D0DC527E8091.d.1C81DF240946BAB56756F90E529A909D.e.82")>
+2024-08-25 16:51:15,862 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="4733eded770f98e1bbe5fe613a1edade", element="f.537BD77D7B8657E405E1D0DC527E8091.d.1C81DF240946BAB56756F90E529A909D.e.82")>
+2024-08-25 16:51:15,868 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="4733eded770f98e1bbe5fe613a1edade", element="f.537BD77D7B8657E405E1D0DC527E8091.d.1C81DF240946BAB56756F90E529A909D.e.82")>
+2024-08-25 16:51:15,969 : INFO : test_2e2 : entering country name
+2024-08-25 16:51:21,412 : INFO : test_2e2 : Text received from the app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-27 17:43:38,267 : INFO : test_2e2 : getting card titles
+2024-08-27 17:43:38,344 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="b58d680ad8fdd1460dcd3042e8085368", element="f.70402FE11347424963BC75E2C1A37249.d.3AA793DBB0A602935F6B468ED457E9EB.e.82")>
+2024-08-27 17:43:38,351 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="b58d680ad8fdd1460dcd3042e8085368", element="f.70402FE11347424963BC75E2C1A37249.d.3AA793DBB0A602935F6B468ED457E9EB.e.82")>
+2024-08-27 17:43:38,359 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="b58d680ad8fdd1460dcd3042e8085368", element="f.70402FE11347424963BC75E2C1A37249.d.3AA793DBB0A602935F6B468ED457E9EB.e.82")>
+2024-08-27 17:43:38,367 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="b58d680ad8fdd1460dcd3042e8085368", element="f.70402FE11347424963BC75E2C1A37249.d.3AA793DBB0A602935F6B468ED457E9EB.e.82")>
+2024-08-27 17:43:38,506 : INFO : test_2e2 : entering country name
+2024-08-27 17:43:43,746 : INFO : test_2e2 : Text received from the app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-27 18:28:57,841 : INFO : test_2e2 : getting card titles
+2024-08-27 18:28:58,056 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="6202f7a3-11cc-49d8-a7a2-f8a156009467", element="3b327ec6-e499-45ce-84f8-3ea7c5f72dcf")>
+2024-08-27 18:28:58,121 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="6202f7a3-11cc-49d8-a7a2-f8a156009467", element="3b327ec6-e499-45ce-84f8-3ea7c5f72dcf")>
+2024-08-27 18:28:58,124 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="6202f7a3-11cc-49d8-a7a2-f8a156009467", element="3b327ec6-e499-45ce-84f8-3ea7c5f72dcf")>
+2024-08-27 18:28:58,163 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="6202f7a3-11cc-49d8-a7a2-f8a156009467", element="3b327ec6-e499-45ce-84f8-3ea7c5f72dcf")>
+2024-08-27 18:28:58,844 : INFO : test_2e2 : entering country name
+2024-08-27 18:29:05,645 : INFO : test_2e2 : Text received from the app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-27 18:58:29,329 : INFO : test_2e2 : getting card titles
+2024-08-27 18:58:29,360 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="52a03fe15829f3c5f3c036f62835bc6a", element="f.C52E18A0742A5DFB15AD6832895738ED.d.3482E67A32438A2687C304D45132482C.e.82")>
+2024-08-27 18:58:29,368 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="52a03fe15829f3c5f3c036f62835bc6a", element="f.C52E18A0742A5DFB15AD6832895738ED.d.3482E67A32438A2687C304D45132482C.e.82")>
+2024-08-27 18:58:29,376 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="52a03fe15829f3c5f3c036f62835bc6a", element="f.C52E18A0742A5DFB15AD6832895738ED.d.3482E67A32438A2687C304D45132482C.e.82")>
+2024-08-27 18:58:29,382 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="52a03fe15829f3c5f3c036f62835bc6a", element="f.C52E18A0742A5DFB15AD6832895738ED.d.3482E67A32438A2687C304D45132482C.e.82")>
+2024-08-27 18:58:29,488 : INFO : test_2e2 : entering country name
+2024-08-27 18:58:34,815 : INFO : test_2e2 : Text received from the app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-29 19:40:07,874 : INFO : test_2e2 : getting card titles
+2024-08-29 19:40:07,899 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="3e97356f2d97dc37fe26ee0245a6d0a7", element="f.0A9A4DEB0EA45D05E756A8F23EB7E5B0.d.D9AC82F206DFB73993FFD5A6FA15491B.e.82")>
+2024-08-29 19:40:07,906 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="3e97356f2d97dc37fe26ee0245a6d0a7", element="f.0A9A4DEB0EA45D05E756A8F23EB7E5B0.d.D9AC82F206DFB73993FFD5A6FA15491B.e.82")>
+2024-08-29 19:40:07,913 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="3e97356f2d97dc37fe26ee0245a6d0a7", element="f.0A9A4DEB0EA45D05E756A8F23EB7E5B0.d.D9AC82F206DFB73993FFD5A6FA15491B.e.82")>
+2024-08-29 19:40:07,919 : INFO : test_2e2 : <selenium.webdriver.remote.webelement.WebElement (session="3e97356f2d97dc37fe26ee0245a6d0a7", element="f.0A9A4DEB0EA45D05E756A8F23EB7E5B0.d.D9AC82F206DFB73993FFD5A6FA15491B.e.82")>
+2024-08-29 19:40:08,055 : INFO : test_2e2 : entering country name
+2024-08-29 19:40:13,301 : INFO : test_2e2 : Text received from the app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
